@@ -1,4 +1,5 @@
 import React from "react";
+import { PopupButton } from "@typeform/embed-react";
 
 export default function CTA() {
     return (
@@ -27,17 +28,19 @@ export default function CTA() {
                         We know what we're doing. Returns are fast and seamless in case you don't like something.
                     </p>
                     <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
-                        <div
-                            className="group relative cursor-pointer inline-block overflow-hidden border border-beige px-20 py-3 focus:outline-none focus:ring"
-                        >
-                            <span
-                                className="absolute inset-y-0 left-0 w-[2px] bg-beige transition-all group-hover:w-full group-active:bg-salmon"
-                            ></span>
-                            <span
-                                className="relative text-lg font-bold text-beige transition-colors group-hover:text-hotpink">
-                                Get started ⇒
-                            </span>
-                        </div>
+                        <PopupButton id="qw2dSz6u">
+                            <div
+                                className="group relative cursor-pointer inline-block overflow-hidden border border-beige px-20 py-3 focus:outline-none focus:ring"
+                            >
+                                <span
+                                    className="absolute inset-y-0 left-0 w-[2px] bg-beige transition-all group-hover:w-full group-active:bg-salmon"
+                                ></span>
+                                <span
+                                    className="relative text-lg font-bold text-beige transition-colors group-hover:text-hotpink">
+                                    Get started ⇒
+                                </span>
+                            </div>
+                        </PopupButton>
                     </div>
                 </div>
             </div>

@@ -5,6 +5,7 @@ import address from "../../assets/icons/address.svg";
 import payment from "../../assets/icons/payment.svg";
 import gift from "../../assets/icons/gift.svg";
 import dress from "../../assets/icons/dress.svg";
+import { PopupButton } from "@typeform/embed-react";
 
 function Section() {
     return (
@@ -25,17 +26,19 @@ function Section() {
                             a form, set back and relax- We'll handle your styling needs for you. Whether it's a date night outfit,
                             an office day outfit, a beach outfit, we've got you covered!
                         </p>
-                        <div
-                            className="group relative cursor-pointer inline-block overflow-hidden border border-hotpink mt-4 px-20 sm:px-10 py-3 focus:outline-none focus:ring"
-                        >
-                            <span
-                                className="absolute inset-y-0 left-0 w-[2px] bg-hotpink transition-all group-hover:w-full group-active:bg-salmon"
-                            ></span>
-                            <span
-                                className="relative text-lg font-bold text-teal transition-colors group-hover:text-beige">
-                                Get started now ⇒
-                            </span>
-                        </div>
+                        <PopupButton id="qw2dSz6u">
+                            <div
+                                className="group relative cursor-pointer inline-block overflow-hidden border border-hotpink mt-4 px-20 sm:px-10 py-3 focus:outline-none focus:ring"
+                            >
+                                <span
+                                    className="absolute inset-y-0 left-0 w-[2px] bg-hotpink transition-all group-hover:w-full group-active:bg-salmon"
+                                ></span>
+                                <span
+                                    className="relative text-lg font-bold text-teal transition-colors group-hover:text-beige">
+                                    Get started now ⇒
+                                </span>
+                            </div>
+                        </PopupButton>
                     </div>
 
                     <div className="grid grid-cols-2 gap-4 sm:grid-cols-1">
