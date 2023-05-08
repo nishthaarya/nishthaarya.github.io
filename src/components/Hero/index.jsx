@@ -14,8 +14,8 @@ function Hero() {
                 </div>
 
                 <div className='flex flex-row w-max-content sm:hidden md:hidden space-x-4'>
-                    <img alt="outfit image" src={outfitPinterest1} className="rounded-xl" />
-                    <img alt="outfit image" src={outfitPinterest2} className="rounded-xl" />
+                    <img alt="outfit" src={outfitPinterest1} className="rounded-xl" />
+                    <img alt="outfit" src={outfitPinterest2} className="rounded-xl" />
                 </div>
             </div>
         </div>
