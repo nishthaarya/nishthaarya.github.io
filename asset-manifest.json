@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stylit/static/css/main.4e48a84d.css",
+    "main.js": "/stylit/static/js/main.00c7f9b2.js",
+    "static/js/787.5d004247.chunk.js": "/stylit/static/js/787.5d004247.chunk.js",
+    "static/media/outfitpinterest2.jpeg": "/stylit/static/media/outfitpinterest2.080f91bee8ded175c1c2.jpeg",
+    "static/media/outfitpinterest1.jpeg": "/stylit/static/media/outfitpinterest1.1cb4dd59535c77fd6520.jpeg",
+    "static/media/clothes.svg": "/stylit/static/media/clothes.df647a05fbd5cf5c81bd0b4ed359032f.svg",
+    "static/media/dress.svg": "/stylit/static/media/dress.7ebae834d1ef137a87c30529ebc8b8b5.svg",
+    "static/media/form.svg": "/stylit/static/media/form.536ccd70349fa78765279ac8e63716ca.svg",
+    "index.html": "/stylit/index.html",
+    "static/media/gift.svg": "/stylit/static/media/gift.bbf7a30753d3edb49ee0bac3f59b1574.svg",
+    "static/media/payment.svg": "/stylit/static/media/payment.965eacf040105ae05f490162c2e1e67a.svg",
+    "static/media/address.svg": "/stylit/static/media/address.b4cf53f632231b5b86f692574a85a416.svg",
+    "main.4e48a84d.css.map": "/stylit/static/css/main.4e48a84d.css.map",
+    "main.00c7f9b2.js.map": "/stylit/static/js/main.00c7f9b2.js.map",
+    "787.5d004247.chunk.js.map": "/stylit/static/js/787.5d004247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e48a84d.css",
+    "static/js/main.00c7f9b2.js"
+  ]
+}
