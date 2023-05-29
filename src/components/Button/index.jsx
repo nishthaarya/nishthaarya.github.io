@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Button({ name }) {
+function Button({ name, link }) {
     return (
         <div
             className="group relative cursor-pointer inline-block overflow-hidden border border-beige px-20 sm:px-10 sm:mt-4 py-3 focus:outline-none focus:ring"
